@@ -94,8 +94,8 @@ You can install these via Arduino Library Manager or download them from GitHub.
 
 ## 📸 Screenshots
 
-*(Add gameplay photos or wiring diagrams here if you want)*
-
+* https://github.com/skuydi/connect4/blob/main/IMG_20250130_194824.jpg
+* https://github.com/skuydi/connect4/blob/main/IMG_20250130_195011.jpg
 ---
 
 > **Enjoy playing! Fork,**
